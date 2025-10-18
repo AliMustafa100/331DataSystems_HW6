@@ -15,9 +15,8 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 - **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AdrianAngeles/)
 - **Ali Mustafa**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AliMustafa/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AliMustafa/)
 
-## 👥 Pairing Sessions
-- **Aditya & Mret**: [YouTube Video](https://youtu.be/XG0oYChgdqY)
-- **Mohammad & Adrian**: [YouTube Video](https://youtu.be/EowEcWjE5kE)
+## Group Video 
+- **Aditya & Mret & Mohammad & Adrian**: 
 
 ## 🎯 Quick Access Links
 

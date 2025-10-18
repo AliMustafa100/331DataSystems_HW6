@@ -10,7 +10,7 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 - **Group Notes**: [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 
 ### Individual Submissions
-- **Mret Hein**: [`INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_HW6_MretHein/`](./INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_HW6_MretHein/)
+- **Mret Hein**: [`INDIVIDUAL_NOTEBOOKS/CSCI331_Group2_HW6_MretHein/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_MretHein/)
 - **Adi Dwivedi**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AdiDwivedi/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AdiDwivedi/)
 - **Adrian Angeles**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AdrianAngeles/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AdrianAngeles/)
 - **Ali Mustafa**: [`INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AliMustafa/`](./INDIVIDUAL_NOTEBOOKS/Individual_Group2_HW6_AliMustafa/)

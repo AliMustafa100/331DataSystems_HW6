@@ -38,8 +38,6 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 ### Individual Work
 Each team member has submitted their individual work in separate directories containing:
 - Jupyter notebooks (.ipynb files)
-- SQL scripts (.sql files)
-- Video demonstrations (.mp4 files)
 - Documentation and URL links
 
 ## 🚀 Getting Started

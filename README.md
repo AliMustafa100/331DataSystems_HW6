@@ -31,8 +31,8 @@ This repository contains the HW6 project submissions for CSCI 331 Data Systems G
 ## 📋 File Descriptions
 
 ### Group Deliverables
-- `Group2_Gantt Chart.xlsx.url` - Project Gantt chart showing timeline and task dependencies
-- `Group2_TodoList.xlsx.url` - Comprehensive progress tracking spreadsheet with individual member contributions
+- `Group2_Gantt Chart.xlsx` - Project Gantt chart showing timeline and task dependencies
+- `Group2_TodoList.xlsx` - Comprehensive progress tracking spreadsheet with individual member contributions
 
 ### Individual Work
 Each team member has submitted their individual work in separate directories containing:
@@ -41,8 +41,8 @@ Each team member has submitted their individual work in separate directories con
 
 ## 🚀 Getting Started
 
-1. **View Project Timeline**: Open the Gantt chart at [`GNATT_CHART/Group2_Gantt Chart.xlsx.url`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx.url)
-2. **Track Progress**: Check individual progress in [`GROUP_NOTES/Group2_TodoList.xlsx.url`](./GROUP_NOTES/Group2_TodoList.xlsx.url)
+1. **View Project Timeline**: Open the Gantt chart at [`GNATT_CHART/Group2_Gantt Chart.xlsx`](./GNATT_CHART/Group2_Gantt%20Chart.xlsx)
+2. **Track Progress**: Check individual progress in [`GROUP_NOTES/Group2_TodoList.xlsx`](./GROUP_NOTES/Group2_TodoList.xlsx)
 3. **Watch Pairing Session**: View the Aditya & Mret pairing session at [YouTube Video](https://youtu.be/XG0oYChgdqY)
 
 ## 📝 Notes
